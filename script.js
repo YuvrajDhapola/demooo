@@ -11,6 +11,6 @@ function moveButton() {
 
 function handleYes() {
     document.getElementById('question').innerText = "YAY! 🥳";
-    document.getElementById('display-image').src = "https://imgs.search.brave.com/TZJ0S1uzQhvsOlPgo9hxA2UleK9RPPkoElQwyYxh0DM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDMyNzUy/NzUuanBn"; // Success GIF
+    document.getElementById('display-image').src = "https://imgs.search.brave.com/-oqeKIn6eloY2MvsK4_ZcizsmqMwIPngabGkcM-aQQE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDkyNjQw/NjQucG5n"; // Success GIF
     document.querySelector('.buttons').style.display = 'none';
 }
